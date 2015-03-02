@@ -8,4 +8,4 @@ add description here
 | Driver  | [Ryan Merkley](https://github.com/ryanmerkley)  |
 | Approvers  |   |
 | Contributors | Add yourselves here |
-| Informed | Add yourselves here |
+| Informed | [Cable Green](https://github.com/cablegreen) |
